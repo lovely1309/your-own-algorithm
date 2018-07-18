@@ -6,7 +6,7 @@
 | Model name                   | Accuracy real |
 |------------------------------|---------------|
 | SVM                          | 0.92          | 
-| Random forest with 250 trees | 0.912         |
+| Random forest                | 0.912         |
 | KNN classifier               | 0.92          | 
 | Ada Boost Classifier         | 0.924         |
 
